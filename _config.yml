@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Zheng Gao"
+title                    : "Shutian Ma"
 title_separator          : "-"
-name                     : &name "Zheng Gao"
+name                     : &name "Shutian Ma"
 description              : &description "Ph.D. candidate at Indiana University Bloomington"
 url                      : https://royzhenggao.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "royzhenggao.github.io"
+repository               : "michellemashutian.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -78,9 +78,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Zheng Gao (高正)"
+  name             : "Shutian Ma (马舒天)"
   avatar           : "profile.png"
-  bio              : "Ph.D. candidate at Indiana University Bloomington"
+  bio              : "博士，南京理工大学"
   location         : "Bloomington, Indiana, USA"
   employer         :  
   googlescholar    : "https://scholar.google.com/citations?user=C8M7-1YAAAAJ&hl=en"
