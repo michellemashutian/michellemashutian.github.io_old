@@ -37,14 +37,14 @@ h1, h2, h3, h4, h5, h6 {
 }
 </style>
 {% include base_path %} 
-<h2 id="research">教育背景</h2> 
-<small>**硕博连读，南京理工大学经济管理学院, 2014-至今**</small> 
+* <small> 08/2019:</small> <small style="color:red">I am about to graduate in 2020 Spring and currently looking for full-time scientist / software development engineer jobs on artificial intelligence (NLP, Graph Mining, Search, Recommendation)!</small>  
+* <small> 07/2019: One paper accepted to GECCO 2019!</small>  
+* <small> 06/2019: Start my data scientist internship at Amazon Alexa AI, Seattle.</small>  
+* <small> 05/2019: One paper accepted to BMC Bioinformatics!</small> 
+<h2 id="research"> Research</h2>  
 
-* <small>管理科学与工程专业，预计2020年毕业</small>  
-* <small>导师：[章成志](https://www.researchgate.net/profile/Chengzhi_Zhang4)</small>
-
-<small>**本科，南京理工大学经济管理学院，2010-2014**</small> 
-* <small>信息管理与信息系统专业</small>
+<small> Hi, I am Zheng Gao, a fourth-year Ph.D. candidate of [School of Informatics, Computing, and Engineering (SICE)](https://sice.indiana.edu/) at [Indiana University Bloomington](https://www.indiana.edu/), USA, advised by Prof. [Xiaozhong Liu](http://xiaozhong.website2.me). My Ph.D. major is in Information Science and minor in Computer Science. I received my Master's degree in Information Science from [University of Pittsburgh](https://www.pitt.edu/), USA and my Bachelor's degree in Information Science from [Shanghai International Studies University](http://en.shisu.edu.cn/), China.</small>  
+<small>My research interests are primarily in the area of Graph Mining and Natural Language Processing (NLP). Particularly, I am applying deep learning techniques on the interdisciplinary field therein them to solve Community Detection, Information Retrieval and Recommendation related tasks.</small>
 
 <h2 id="experience">Experience</h2> 
 <small>**Industry:**</small> 
