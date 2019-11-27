@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "个人简介与研究方向"
+title: "News!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
