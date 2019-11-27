@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Zheng Gao"
+title                    : "马舒天"
 title_separator          : "-"
-name                     : &name "Zheng Gao"
+name                     : &name "Shutian Ma"
 description              : &description "Ph.D. candidate at Indiana University Bloomington"
-url                      : https://royzhenggao.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://michellemashutian.github.io/michellemashutian/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "royzhenggao.github.io"
+repository               : "michellemashutian.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -78,13 +78,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Zheng Gao (高正)"
+  name             : "Shutian Ma (马舒天)"
   avatar           : "profile.png"
-  bio              : "Ph.D. candidate at Indiana University Bloomington"
-  location         : "Bloomington, Indiana, USA"
+  bio              : "博士，南京理工大学"
+  location         : "南京，江苏，中国"
   employer         :  
-  googlescholar    : "https://scholar.google.com/citations?user=C8M7-1YAAAAJ&hl=en"
-  email            : "gao27@indiana.edu"
+  googlescholar    : "https://scholar.google.com/citations?user=D7wgsokAAAAJ&hl=en"
+  email            : "mashutian0608@hotmail.com"
   uri              :
   bitbucket        :
   codepen          :
@@ -92,12 +92,12 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "RoyZhengGao"
+  github           : "michellemashutian"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "zheng-gao-351b738a/"
+  linkedin         : "shutian-ma-likeworking/"
   orcid            :  
   pinterest        :
   soundcloud       :
