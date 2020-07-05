@@ -38,19 +38,20 @@ h1, h2, h3, h4, h5, h6 {
 </style>
 {% include base_path %} 
 * <small> Doctoral Degree in Nanjing University of Science & Technology</small>  
-* <small>Apply NLP, ML and DL to solve problems</small>  
-* <small> Areas of Research：Document clustering and classification, Text embedding and node embedding, Scientific software recommendation, Citation recommendation (Dissertation Topic) </small>
+* <small>Apply Natural Language Processing (NLP), Machine Learning (ML) and Deep Learning (DL) to solve research problems</small>  
+* <small> Areas of Research：Document clustering and classification, Text embedding and graph embedding, Scientific software recommendation, Citation recommendation (Dissertation Topic) </small>
 
-<h2 id="research">Education</h2> 
-<small>**Master and PHD combined Program** in Nanjing University of Science & Technology, 2014 - 2020</small> 
-* <small>Department of Information Science</small>  
-* <small>Supervisor：[Chengzhi Zhang](https://www.researchgate.net/profile/Chengzhi_Zhang4)</small>
-
-<small>**Bachelor Program** in Nanjing University of Science & Technology, 2010 - 2014</small> 
-* <small>Information Management and Information System, Department of Information Science</small>
-
-<small>**Exchange Student Program** in Ajou University in Korea, Spring 2012</small> 
-* <small>Department of Economic Management</small>
+<h2 id="education">Education</h2> 
+* <small>**Ph.D.** in Information Science <br>
+	Nanjing University of Science & Technology, China, (2014 - 2020) <br>
+	Supervisor：[Chengzhi Zhang](https://www.researchgate.net/profile/Chengzhi_Zhang4) 
+</small> 
+* <small>**B.M.** in Information Management and System <br>
+	Nanjing University of Science & Technology, China, (2010 - 2014)
+</small>  
+* <small>**Exchange Student** in  Economic Management <br>
+	Ajou University, South Korea, (Spring 2012)
+</small>  
 
 
 <h2 id="experience">Experience</h2> 
@@ -97,7 +98,7 @@ h1, h2, h3, h4, h5, h6 {
 * <small>章成志, 徐津, **马舒天**.(2019). 学术文本被引片段的自动识别研究(Automatic Identification of Cited Spans in Academic Articles). 情报理论与实践:1-11.<small>
 * <small>章成志, **马舒天**, 揭春雨, & 姚旭晨. (2018). 基于双语 URL 匹配模式可信度的平行网页识别研究(Detection of Parallel Web Pages Based on the Automatically Discovered Bilingual URL Pairing Patterns). 中文信息学报, 32(3), 91-100.<small> 
 
-<h2 id="service">Competition</h2>  
+<h2 id="competition">Competition</h2>  
 
 <small>**Scientific Document Summarization, CL-SciSumm, 2017-2019**</small> 
 * <small>Collaborated with two colleagues (Leader)</small>
