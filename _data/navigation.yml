@@ -5,13 +5,13 @@ main:
   # - title: "Education"
   #   url: /#education
   - title: "Education"
-    url: /#research
+    url: /#education
   - title: "Experience"
     url: /#experience  
   - title: "Publication"
     url: /#publication
   - title: "Competition"
-    url: /#service 
+    url: /#competition 
   - title: "Award"
     url: /#award     
   - title: "CV"
