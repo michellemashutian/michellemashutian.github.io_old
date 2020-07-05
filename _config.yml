@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "马舒天"
+title                    : "马舒天(Shutian Ma)"
 title_separator          : "-"
 name                     : &name "Shutian Ma"
 description              : &description "Ph.D. candidate"
@@ -80,8 +80,8 @@ analytics:
 author:
   name             : "Shutian Ma (马舒天)"
   avatar           : "profile.png"
-  bio              : "博士，南京理工大学"
-  location         : "南京，江苏，中国"
+  bio              : "Doctor，Nanjing Univeristy of Science and Technology"
+  location         : "Nanjing, Jiangsu, China"
   employer         :  
   googlescholar    : "https://scholar.google.com/citations?user=D7wgsokAAAAJ&hl=en"
   email            : "mashutian0608@hotmail.com"
