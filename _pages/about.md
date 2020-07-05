@@ -44,7 +44,7 @@ h1, h2, h3, h4, h5, h6 {
 <h2 id="research">Education</h2> 
 <small>**Master and PHD combined Program，Nanjing University of Science & Technology, 2014-2020**</small> 
 * <small>Department of Information Science</small>  
-* <small>Supervisor：[章成志](https://www.researchgate.net/profile/Chengzhi_Zhang4)</small>
+* <small>Supervisor：[Chengzhi Zhang](https://www.researchgate.net/profile/Chengzhi_Zhang4)</small>
 
 <small>**Bachelor Program，Nanjing University of Science & Technology, 2010-2014**</small> 
 * <small>Information Management and Information System, Department of Information Science</small>
@@ -77,7 +77,7 @@ h1, h2, h3, h4, h5, h6 {
 * <small>Börner, Katy, Olga Scrivner, Leonard E. Cross, Michael Gallant, **Shutian Ma**, Adam S. Martin, Elizabeth Record, Haici Yang, and Jonathan M. Dilger. Mapping the co-evolution of artificial intelligence, robotics, and the internet of things over 20 years (1998-2017). arXiv preprint arXiv:2006.02366 (2020).<small>
 * <small>**Shutian Ma**, Heng Zhang, Tianxiang Xu, Jin Xu, Shaohu Hu, and Chengzhi Zhang. IR&TM-NJUST@ CLSciSumm-19. (BIRNDL2019), July 2019, Paris, France.<small>
 * <small>Jin Xu, Chengzhi Zhang and **Shutian Ma**. Ensemble System for Identification of Cited Text Spans: Based on Two Steps of Feature Selection, CCIR 2019<small>
-*<small>Gao, Zheng, Vincent Malic, **Shutian Ma**, and Patrick Shih. How to Make a Successful Movie: Factor Analysis from both Financial and Critical Perspectives [C]. In: Proceedings of the International Conference on Information, Springer, Cham, 2019: 669-678. (EI)<small>
+* <small>Gao, Zheng, Vincent Malic, **Shutian Ma**, and Patrick Shih. How to Make a Successful Movie: Factor Analysis from both Financial and Critical Perspectives [C]. In: Proceedings of the International Conference on Information, Springer, Cham, 2019: 669-678. (EI)<small>
 * <small>Zhang, Heng, **Shutian Ma**, and Chengzhi Zhang. Using Full-text of Academic Articles to Find Software Clusters [C]. In: Proceedings of the 17th International Conference on Scientometrics and Informetrics (ISSI 2019), Rome, Italy, 2019(small)<small>
 * <small>**Shutian Ma**, Heng Zhang, Jin Xu, Chengzhi Zhang*. NJUST @ CLSciSumm-18. In: Proceedings of the 3nd Joint Workshop on Bibliometric-enhanced Information Retrieval and Natural Language Processing for Digital Libraries (BIRNDL 2018), July 2018, Michgen, USA. (EI)<small>
 * <small>**Shutian Ma**, Yingyi Zhang, Chengzhi Zhang*. Using multiple Web resources and inference rules to classify Chinese word semantic relation. Information Discovery and Delivery 46.2 (2018): 120-126. (SSCI)<small>
