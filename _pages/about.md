@@ -43,28 +43,28 @@ h1, h2, h3, h4, h5, h6 {
 
 <h2 id="education">Education</h2> 
 * <small>**Ph.D.** in Information Science<br>
-	Nanjing University of Science & Technology, China, (2014 - 2020)<br>
+	Nanjing University of Science & Technology, China (2014 - 2020)<br>
 	Supervisor：[Chengzhi Zhang](https://www.researchgate.net/profile/Chengzhi_Zhang4)</small> 
 * <small>**B.M.** in Information Management and System<br>
-	Nanjing University of Science & Technology, China, (2010 - 2014)</small>  
+	Nanjing University of Science & Technology, China (2010 - 2014)</small>  
 * <small>**Exchange Student** in  Economic Management<br>
-	Ajou University, South Korea, (Spring 2012)</small>  
+	Ajou University, South Korea (Spring 2012)</small>  
 
 
 <h2 id="experience">Experience</h2> 
 
-<small>**Internship of User study in Tencent** at Shenzheng, July 2020 - Now</small> 
+<small>**Data Scientist Intern**, Tencent, Shenzheng (07/2020 - Now)</small> 
 * <small>Customer Research & User Experience Design Center</small>
 * <small>Data preprocessing, Name entity extraction, Knowledge graph</small>
 
-<small>**Internship of Algorithm engineer in Aegis** at Nanjing, March 2020 - April 2020</small> 
+<small>**Algorithm Engineer Intern**, Aegis, Nanjing (03/2020 - 04/2020)</small> 
 * <small>Data preprocessing, Name entity extraction </small>
 
-<small>**Internship of NLP engineer in Bytedance** at Beijing, November 2017 - January 2018</small> 
+<small>**Algorithm Engineer Intern**, Bytedance, Beijing (11/2018 - 01/2019)</small> 
 * <small>Department of Data and NLP</small>
 * <small>Data preprocessing, modeling training and query classification service construction</small>
 
-<small>**Visiting Scholar in Indiana univerisity Bloomington**, Octobor 2017 - Octobor 2018</small> 
+<small>**Visiting Scholar**, Indiana univerisity Bloomington, United States (10/2017 - 10/2018)</small> 
 * <small>Employed at Cyberinfrastructure for Network Science (CNS) Center, Department of Information and Library Science, School of Informatics, Computing, and Engineering</small>
 * <small>Supervisor: [Katy Boner](http://ella.slis.indiana.edu/~katy/)，[Xiaozhong Liu](https://www.sice.indiana.edu/all-people/profile.html?profile_id=100)</small>
 
