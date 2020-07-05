@@ -4,17 +4,17 @@ main:
   #   url: /cv/
   # - title: "Education"
   #   url: /#education
-  - title: "教育背景"
+  - title: "Education"
     url: /#research
-  - title: "工作经历"
+  - title: "Experience"
     url: /#experience  
-  - title: "发表文章"
+  - title: "Publication"
     url: /#publication
-  - title: "比赛经历"
+  - title: "Competition"
     url: /#service 
-  - title: "获奖经历"
+  - title: "Award"
     url: /#award     
-  - title: "个人简历"
+  - title: "CV"
     url: /files/cv.pdf  
   # - title: "Blog"
   #   url: https://scholar.google.com/ 
