@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "马舒天(Shutian Ma)"
+title                    : "Shutian Ma"
 title_separator          : "-"
 name                     : &name "Shutian Ma"
 description              : &description "Ph.D. candidate"
