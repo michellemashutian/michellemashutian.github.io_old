@@ -42,35 +42,35 @@ h1, h2, h3, h4, h5, h6 {
 * <small> Areas of Research：Document clustering and classification, Text embedding and node embedding, Scientific software recommendation, Citation recommendation (Dissertation Topic) </small>
 
 <h2 id="research">Education</h2> 
-<small>**Master and PHD combined Program，Nanjing University of Science & Technology, 2014-2020**</small> 
+<small>**Master and PHD combined Program** in Nanjing University of Science & Technology, 2014 - 2020</small> 
 * <small>Department of Information Science</small>  
 * <small>Supervisor：[Chengzhi Zhang](https://www.researchgate.net/profile/Chengzhi_Zhang4)</small>
 
-<small>**Bachelor Program，Nanjing University of Science & Technology, 2010-2014**</small> 
+<small>**Bachelor Program** in Nanjing University of Science & Technology, 2010 - 2014</small> 
 * <small>Information Management and Information System, Department of Information Science</small>
 
-<small>**Exchange Student Program，Ajou University in Korea, Spring 2012**</small> 
+<small>**Exchange Student Program** in Ajou University in Korea, Spring 2012</small> 
 * <small>Department of Economic Management</small>
 
 
 <h2 id="experience">Experience</h2> 
 
-<small>**Internship of User study，Tencent in Shenzheng, July 2020-Now**</small> 
+<small>**Internship of User study in Tencent** at Shenzheng, July 2020 - Now</small> 
 * <small>Customer Research & User Experience Design Center</small>
 * <small>Data preprocessing, Name entity extraction, Knowledge graph</small>
 
-<small>**Internship of Algorithm engineer，Aegis in Nanjing, March 2020-April 2020**</small> 
+<small>**Internship of Algorithm engineer in Aegis** at Nanjing, March 2020 - April 2020</small> 
 * <small>Data preprocessing, Name entity extraction </small>
 
-<small>**Internship of NLP engineer，Bytedance in Beijing, November 2017-January 2018**</small> 
+<small>**Internship of NLP engineer in Bytedance** at Beijing, November 2017 - January 2018</small> 
 * <small>Department of Data and NLP</small>
 * <small>Data preprocessing, modeling training and query classification service construction</small>
 
-<small>**Visiting Scholar，Indiana univerisity Bloomington, Octobor 2017- Octobor 2018**</small> 
+<small>**Visiting Scholar in Indiana univerisity Bloomington**, Octobor 2017 - Octobor 2018</small> 
 * <small>Employed at Cyberinfrastructure for Network Science (CNS) Center, Department of Information and Library Science, School of Informatics, Computing, and Engineering</small>
 * <small>Supervisor: [Katy Boner](http://ella.slis.indiana.edu/~katy/)，[Xiaozhong Liu](https://www.sice.indiana.edu/all-people/profile.html?profile_id=100)</small>
 
-<h2 id="publication">Publications</h2> 
+<h2 id="publication">Publication</h2> 
 
 * <small>**Shutian Ma**, Chengzhi Zhang*, and Xiaozhong Liu. Chronological Citation Recommendation with Time Preference. Scientometrics. 2020. (under review)<small>
 * <small>**Ma, Shutian**, Chengzhi Zhang*, and Xiaozhong Liu. A review of citation recommendation: from textual content to enriched context. Scientometrics. 2020, 122(3): 1445-1472.(SSCI)<small>
@@ -94,7 +94,7 @@ h1, h2, h3, h4, h5, h6 {
 * <small>**Shutian Ma**, Xiaoyong Zhang, Chengzhi Zhang*. NLPCC 2016 Shared Task: Chinese Words Similarity Measure via Ensemble Learning based on Multiple Resources. In: Proceedings of the Fifth Conference on Natural Language Processing and Chinese Computing & The Twenty Fourth International Conference on Computer Processing of Oriental Languages (NLPCC-ICCPOL 2016). Kunming, China, 2016: 862–869. (EI)<small>
 * <small>**Shutian Ma**, Chengzhi Zhang*, Daqing He. Document Representation Methods for Clustering Bilingual Documents. In: Processing of the 2016 Annual Meeting of the Association for Information Science and Technology (ASIST’2016), Copenhagen, Denmark, 2016.<small>
 * <small>**Shutian Ma**, Chengzhi Zhang*. Automatic Collection of the Parallel Corpus with Little Prior Knowledge. In: Proceedings of the 13th China National Conference on Computational Linguistics (CCL2014), Wuhan, China, 2014: 95-106. (EI)<small>
-* <small>章成志,徐津,**马舒天**.(2019).学术文本被引片段的自动识别研究(Automatic Identification of Cited Spans in Academic Articles).情报理论与实践:1-11.<small>
+* <small>章成志, 徐津, **马舒天**.(2019). 学术文本被引片段的自动识别研究(Automatic Identification of Cited Spans in Academic Articles). 情报理论与实践:1-11.<small>
 * <small>章成志, **马舒天**, 揭春雨, & 姚旭晨. (2018). 基于双语 URL 匹配模式可信度的平行网页识别研究(Detection of Parallel Web Pages Based on the Automatically Discovered Bilingual URL Pairing Patterns). 中文信息学报, 32(3), 91-100.<small> 
 
 <h2 id="service">Competition</h2>  
@@ -117,7 +117,7 @@ h1, h2, h3, h4, h5, h6 {
 * <small>Shared Tasks in Conference on Natural Language Processing and Chinese Computing & International Conference on Computer Processing of Oriental Languages (NLPCC-ICCPOL 2016)</small>
 
 
-<h2 id="award"> Awards</h2> 
+<h2 id="award"> Award</h2> 
 
 * <small>2018年研究生国家奖学金一等奖(National scholarship for Postgraduates, First Price, 2018)</small> 
 * <small>2018年工信部创新创业奖学金一等奖(Innovation and entrepreneurship scholarship of Ministry of Industry and Information Technology, First Price, 2018)</small> 
