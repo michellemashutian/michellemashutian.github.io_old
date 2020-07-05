@@ -94,7 +94,7 @@ h1, h2, h3, h4, h5, h6 {
 * <small>**Shutian Ma**, Xiaoyong Zhang, Chengzhi Zhang*. NLPCC 2016 Shared Task: Chinese Words Similarity Measure via Ensemble Learning based on Multiple Resources. In: Proceedings of the Fifth Conference on Natural Language Processing and Chinese Computing & The Twenty Fourth International Conference on Computer Processing of Oriental Languages (NLPCC-ICCPOL 2016). Kunming, China, 2016: 862–869. (EI)<small>
 * <small>**Shutian Ma**, Chengzhi Zhang*, Daqing He. Document Representation Methods for Clustering Bilingual Documents. In: Processing of the 2016 Annual Meeting of the Association for Information Science and Technology (ASIST’2016), Copenhagen, Denmark, 2016.<small>
 * <small>**Shutian Ma**, Chengzhi Zhang*. Automatic Collection of the Parallel Corpus with Little Prior Knowledge. In: Proceedings of the 13th China National Conference on Computational Linguistics (CCL2014), Wuhan, China, 2014: 95-106. (EI)<small>
-* <small>章成志,徐津,**马舒天**.学术文本被引片段的自动识别研究(Automatic Identification of Cited Spans in Academic Articles).情报理论与实践:1-11[2019-07-30].http://kns.cnki.net/kcms/detail/11.1762.G3.20190610.1738.010.html<small>
+* <small>章成志,徐津,**马舒天**.(2019).学术文本被引片段的自动识别研究(Automatic Identification of Cited Spans in Academic Articles).情报理论与实践:1-11.<small>
 * <small>章成志, **马舒天**, 揭春雨, & 姚旭晨. (2018). 基于双语 URL 匹配模式可信度的平行网页识别研究(Detection of Parallel Web Pages Based on the Automatically Discovered Bilingual URL Pairing Patterns). 中文信息学报, 32(3), 91-100.<small> 
 
 <h2 id="service">Competition</h2>  
