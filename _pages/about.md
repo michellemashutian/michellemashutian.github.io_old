@@ -97,7 +97,7 @@ h1, h2, h3, h4, h5, h6 {
 * <small>章成志,徐津,**马舒天**.学术文本被引片段的自动识别研究(Automatic Identification of Cited Spans in Academic Articles).情报理论与实践:1-11[2019-07-30].http://kns.cnki.net/kcms/detail/11.1762.G3.20190610.1738.010.html<small>
 * <small>章成志, **马舒天**, 揭春雨, & 姚旭晨. (2018). 基于双语 URL 匹配模式可信度的平行网页识别研究(Detection of Parallel Web Pages Based on the Automatically Discovered Bilingual URL Pairing Patterns). 中文信息学报, 32(3), 91-100.<small> 
 
-<h2 id="service">Competition Experience</h2>  
+<h2 id="service">Competition</h2>  
 
 <small>**Scientific Document Summarization, CL-SciSumm, 2017-2019**</small> 
 * <small>Collaborated with two colleagues (Leader)</small>
