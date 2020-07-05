@@ -42,16 +42,13 @@ h1, h2, h3, h4, h5, h6 {
 * <small> Areas of Research：Document clustering and classification, Text embedding and graph embedding, Scientific software recommendation, Citation recommendation (Dissertation Topic) </small>
 
 <h2 id="education">Education</h2> 
-* <small>**Ph.D.** in Information Science <br>
-	Nanjing University of Science & Technology, China, (2014 - 2020) <br>
-	Supervisor：[Chengzhi Zhang](https://www.researchgate.net/profile/Chengzhi_Zhang4) 
-</small> 
-* <small>**B.M.** in Information Management and System <br>
-	Nanjing University of Science & Technology, China, (2010 - 2014)
-</small>  
-* <small>**Exchange Student** in  Economic Management <br>
-	Ajou University, South Korea, (Spring 2012)
-</small>  
+* <small>**Ph.D.** in Information Science<br>
+	Nanjing University of Science & Technology, China, (2014 - 2020)<br>
+	Supervisor：[Chengzhi Zhang](https://www.researchgate.net/profile/Chengzhi_Zhang4)</small> 
+* <small>**B.M.** in Information Management and System<br>
+	Nanjing University of Science & Technology, China, (2010 - 2014)</small>  
+* <small>**Exchange Student** in  Economic Management<br>
+	Ajou University, South Korea, (Spring 2012)</small>  
 
 
 <h2 id="experience">Experience</h2> 
