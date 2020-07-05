@@ -37,7 +37,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 </style>
 {% include base_path %} 
-* <small> Doctoral Degree in Nanjing University of Science & Technology</small>  
+* <small> Ph.D. candidate at Nanjing University of Science & Technology</small>  
 * <small>Apply Natural Language Processing (NLP), Machine Learning (ML) and Deep Learning (DL) to solve research problems</small>  
 * <small> Areas of Research：Document clustering and classification, Text embedding and graph embedding, Scientific software recommendation, Citation recommendation (Dissertation Topic) </small>
 
