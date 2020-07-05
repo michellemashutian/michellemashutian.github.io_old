@@ -53,7 +53,7 @@ h1, h2, h3, h4, h5, h6 {
 
 <h2 id="experience">Experience</h2> 
 
-<small>**Data Scientist Intern**, Tencent, Shenzheng (07/2020 - Now)</small> 
+<small>**Data Scientist Intern**, Tencent, Shenzhen (07/2020 - Now)</small> 
 * <small>Customer Research & User Experience Design Center</small>
 * <small>Data preprocessing, Name entity extraction, Knowledge graph</small>
 
