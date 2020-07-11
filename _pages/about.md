@@ -117,8 +117,8 @@ h1, h2, h3, h4, h5, h6 {
 
 <h2 id="award"> Award</h2> 
 
-* <small>2018年研究生国家奖学金一等奖(National scholarship for Postgraduates, First Price, 2018)</small> 
-* <small>2018年工信部创新创业奖学金一等奖(Innovation and entrepreneurship scholarship of Ministry of Industry and Information Technology, First Price, 2018)</small> 
+* <small>2018年研究生国家奖学金一等奖(National scholarship for Postgraduates, First Prize, 2018)</small> 
+* <small>2018年工信部创新创业奖学金一等奖(Innovation and entrepreneurship scholarship of Ministry of Industry and Information Technology, First Prize, 2018)</small> 
 * <small>2016年第六届全国情报学博士生论坛二等奖(The 6th National Information Science Doctoral Forum, 2016)</small> 
 * <small>2015年全国情报学博士生学术论坛优秀论文一等奖(The National Information Science Doctoral Forum held by Beijing University, 2015)</small> 
 * <small>2015年第五届全国情报学博士生论坛暨2015中国信息资源管理论坛优秀论文三等奖(The 5th National Information Science Doctoral Forum and 2015 China Information Resource Management Forum, 2015)</small>
