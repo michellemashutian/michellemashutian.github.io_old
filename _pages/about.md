@@ -66,7 +66,7 @@ h1, h2, h3, h4, h5, h6 {
 
 <small>**Visiting Scholar**, Indiana Univerisity Bloomington, United States (10/2017 - 10/2018)</small> 
 * <small>Employed at Cyberinfrastructure for Network Science (CNS) Center, Department of Information and Library Science, School of Informatics, Computing, and Engineering</small>
-* <small>Supervisor: [Katy Boner](http://ella.slis.indiana.edu/~katy/)，[Xiaozhong Liu](https://www.sice.indiana.edu/all-people/profile.html?profile_id=100)</small>
+* <small>Supervisor: [Katy Borner](http://ella.slis.indiana.edu/~katy/)，[Xiaozhong Liu](https://www.sice.indiana.edu/all-people/profile.html?profile_id=100)</small>
 
 <h2 id="publication">Publication</h2> 
 
