@@ -56,7 +56,7 @@ h1, h2, h3, h4, h5, h6 {
 <small>**Designer in User Research**, Tencent, Shenzhen (04/2020 - Now)</small> 
 * <small>Customer Research & User Experience Design Center</small>
 * <small>Text clustering, Data preprocessing, Name entity extraction, Knowledge graph, User research</small>
-* 
+
 <small>**Data Scientist Intern**, Tencent, Shenzhen (07/2020 - 04/2020)</small> 
 * <small>Customer Research & User Experience Design Center</small>
 * <small>Data preprocessing, Name entity extraction, Knowledge graph</small>
