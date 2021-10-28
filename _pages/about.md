@@ -53,7 +53,11 @@ h1, h2, h3, h4, h5, h6 {
 
 <h2 id="experience">Experience</h2> 
 
-<small>**Data Scientist Intern**, Tencent, Shenzhen (07/2020 - Now)</small> 
+<small>**Designer in User Research**, Tencent, Shenzhen (04/2020 - Now)</small> 
+* <small>Customer Research & User Experience Design Center</small>
+* <small>Text clustering, Data preprocessing, Name entity extraction, Knowledge graph, User research</small>
+* 
+<small>**Data Scientist Intern**, Tencent, Shenzhen (07/2020 - 04/2020)</small> 
 * <small>Customer Research & User Experience Design Center</small>
 * <small>Data preprocessing, Name entity extraction, Knowledge graph</small>
 
@@ -70,7 +74,7 @@ h1, h2, h3, h4, h5, h6 {
 
 <h2 id="publication">Publication</h2> 
 
-* <small>**Shutian Ma**, Chengzhi Zhang*, and Xiaozhong Liu. Chronological Citation Recommendation with Time Preference. Scientometrics. 2020. (under review)<small>
+* <small>**Shutian Ma**, Chengzhi Zhang*, and Xiaozhong Liu. Chronological Citation Recommendation with Time Preference. Scientometrics. 2021, 126(4): 2991-3010.(SSCI)<small>
 * <small>**Shutian Ma**, Chengzhi Zhang*, and Xiaozhong Liu. A review of citation recommendation: from textual content to enriched context. Scientometrics. 2020, 122(3): 1445-1472.(SSCI)<small>
 * <small>Katy Börner, Olga Scrivner, Leonard E. Cross, Michael Gallant, **Shutian Ma**, Adam S. Martin, Elizabeth Record, Haici Yang, and Jonathan M. Dilger. Mapping the co-evolution of artificial intelligence, robotics, and the internet of things over 20 years (1998-2017). arXiv preprint arXiv:2006.02366 (2020).<small>
 * <small>**Shutian Ma**, Heng Zhang, Tianxiang Xu, Jin Xu, Shaohu Hu, and Chengzhi Zhang. IR&TM-NJUST@ CLSciSumm-19. (BIRNDL2019), July 2019, Paris, France.<small>
